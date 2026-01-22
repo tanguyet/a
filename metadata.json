@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of EcoPoints - Corporate Loyalty Hub",
+  "description": "A sophisticated internal loyalty platform for employees to earn points through achievements and redeem them for exclusive corporate rewards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
